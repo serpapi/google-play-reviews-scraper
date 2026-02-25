@@ -159,6 +159,9 @@ Here are some use cases for the Google Play Reviews API:
 - Perform NLP and sentiment analysis on review text for product insights.
 - Compare review trends across competitor apps.
 
+## Related scraper
+- [Google Play Store Scraper](https://github.com/serpapi/google-play-scraper/)
+
 ## Contacts
 Feel free to reach out via `contact@serpapi.com`.
 
