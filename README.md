@@ -155,7 +155,7 @@ Here are some use cases for the Google Play Reviews API:
 - Monitor user sentiment by scraping and analyzing app reviews over time.
 - Filter reviews by star rating to identify common complaints or praise.
 - Track reviews by device platform to find device-specific issues.
-- Build review aggregation dashboards for app portfolio management.
+- Build internal dashboards that track ratings and review trends across your app portfolio.
 - Perform NLP and sentiment analysis on review text for product insights.
 - Compare review trends across competitor apps.
 
